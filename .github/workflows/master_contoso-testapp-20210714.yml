@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'contoso-testapp-20210714'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_e68890f239f5410895717fd21076766b }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_3fa9d8ca31a94290bb23666610b8170b }}
